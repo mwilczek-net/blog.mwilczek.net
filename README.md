@@ -1,12 +1,26 @@
-## Voyager
+# blog.mwilczek.net
+
+Blog based on Voyager theme.
+
+Blog is a place that aggregates knowledge from all over internet and my discoveries.
+Take this knowledge, all of you, and use it.
+
+Would be nice if you link to this blog if you use it's content. I'm trying to do the same.
+
+Medias are released with different licenses, and are taken from different places.
+If you want to reuse any media, please make sure that license allows you to use it.
+
+Theme itself was released based with MIT license. Downloaded from: http://jekyllthemes.org/themes/voyager/
+
+# Voyager Theme
 
 Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
 
-### Feathures:
+## Feathures:
 
 All HTML files are compressed (see `_layouts/compress.html`).
 
-**Post**
+### Post
 
 All post settings can be changed. Example:
 
@@ -27,7 +41,7 @@ categories: posts
 
 `bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
 
-**Page**
+### Page
 
 If page contains `active` tag, it will be show on site menu.
 
@@ -40,7 +54,7 @@ active: about
 ---
 ```
 
-**Archive**
+### Archive
 
 Archive page is sorting posts by tags. No more than one tag in one post.
 
@@ -58,7 +72,7 @@ tags : ['front-end', 'jekyll']
 
 Don't forget to change `_config.yml`.
 
-**Relative paths**
+### Relative paths
 
 If your blog is not in the root directory, you can include images with a relative path. For example:
 
