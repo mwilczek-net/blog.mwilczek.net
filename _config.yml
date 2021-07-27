@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog is a place that aggregates knowledge from all over internet and my discoveries.
+  Take this knowledge, all of you, and use it.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "https://blog.mwilczek.net/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 disqus_username:
@@ -24,7 +23,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 # Posts settings
-future: true
+future: false
 safe: false
 lsi: false
 excerpt_separator: "\n\n"

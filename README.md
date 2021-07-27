@@ -1,7 +1,5 @@
 # blog.mwilczek.net
 
-Blog based on Voyager theme.
-
 Blog is a place that aggregates knowledge from all over internet and my discoveries.
 Take this knowledge, all of you, and use it.
 
@@ -9,6 +7,8 @@ Would be nice if you link to this blog if you use it's content. I'm trying to do
 
 Medias are released with different licenses, and are taken from different places.
 If you want to reuse any media, please make sure that license allows you to use it.
+
+Blog based on Voyager theme.
 
 Theme itself was released based with MIT license. Downloaded from: http://jekyllthemes.org/themes/voyager/
 
