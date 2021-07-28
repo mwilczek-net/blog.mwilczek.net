@@ -7,6 +7,7 @@
 
 # Site settings
 title: blog
+title_long: blog.mwilczek.net
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog is a place that aggregates knowledge from all over internet and my discoveries.
@@ -15,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://blog.mwilczek.net/" # the base hostname & protocol for your site
 twitter_username:
-github_username:  
+github_username:
 disqus_username:
 
 # Build settings

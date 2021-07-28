@@ -1,6 +1,6 @@
 ---
-bg: "owl.jpg"
-bgCredential: "Credential test"
+bg: "markus-spiske-FXFz-sW0uwo-unsplash.jpg"
+bgCredential: Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 layout: page
 date: 2021-07-27
 title: "About"
