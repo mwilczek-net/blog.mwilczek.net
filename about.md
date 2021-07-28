@@ -1,5 +1,6 @@
 ---
 bg: "owl.jpg"
+bgCredential: "Credential test"
 layout: page
 date: 2021-07-27
 title: "About"
