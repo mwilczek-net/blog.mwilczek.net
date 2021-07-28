@@ -5,12 +5,14 @@ Take this knowledge, all of you, and use it.
 
 Would be nice if you link to this blog if you use it's content. I'm trying to do the same.
 
-Medias are released with different licenses, and are taken from different places.
-If you want to reuse any media, please make sure that license allows you to use it.
+**Medias may be released with different licenses, and are taken from different places.
+If you want to reuse any media, please make sure that license allows you to use it.**
 
-Blog based on Voyager theme.
+This page is based on Voyager theme, and is constantly changed by me.
 
-Theme itself was released based with MIT license. Downloaded from: http://jekyllthemes.org/themes/voyager/
+Theme was released based on MIT License. You can take all my changes (except content) on the same license.
+
+Theme was download from: http://jekyllthemes.org/themes/voyager/
 
 # Voyager Theme
 
