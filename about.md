@@ -6,7 +6,7 @@ date: 2021-07-27
 title: "About"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "About blog.mwilczek.net"
 active: about
 ---
 
