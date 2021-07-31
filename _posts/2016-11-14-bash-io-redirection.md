@@ -1,5 +1,5 @@
 ---
-bg_credential: "<a href="https://unsplash.com/@amfiloxia_68?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">George Girnas</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"
+bg_credential: <a href="https://unsplash.com/@amfiloxia_68?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">George Girnas</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 bg:           "george-girnas-6RTn6HZD-RI-unsplash.jpg"
 layout:       post
 title:        "Bash I/O redirection"
