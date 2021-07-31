@@ -5,7 +5,7 @@ layout:       post
 title:        "Bash I/O redirection"
 crawlertitle: "Bash I/O redirection"
 summary:      "Redirect input and output in Bash"
-date:         2016-11-14 09:35:44 +0100
+date:         2016-11-14
 categories:   posts
 tags:         ['Bash']
 author:       "mwilczek.net"
