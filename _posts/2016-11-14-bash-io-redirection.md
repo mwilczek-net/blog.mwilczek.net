@@ -8,7 +8,7 @@ summary:      "Redirect input and output in Bash"
 date:         2016-11-14
 categories:   posts
 tags:         ['Bash', 'IO, '/dev/null', 'redirect']
-author:       mwilczek.net
+author:       "mwilczek.net"
 ---
 
 I/O Redirection allows us to change destination of data. Reasons to use it are countless. Some of them are clean output when looking for files. Commands like:
