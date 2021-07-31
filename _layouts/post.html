@@ -40,6 +40,9 @@ layout: default
     {% for tag in page.tags %}
       &nbsp;/ #{{ tag }}
     {% endfor %}
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">{{ tag }}</a>
+    {% endfor %}
   </p>
 
 </article>
