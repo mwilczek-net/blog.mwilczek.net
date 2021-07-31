@@ -36,4 +36,15 @@ layout: default
 
   </div>
 
+  <p class="post-meta">
+    {% if page.tags %}
+      &nbsp;/&nbsp;
+      <span>{{ page.author }}</span>
+    {% endif %}
+
+    {% for tag in page.tags %}
+      &nbsp;/ {{ page.author }}
+    {% endfor %}
+  </p>
+
 </article>
