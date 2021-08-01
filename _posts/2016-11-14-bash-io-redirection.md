@@ -16,7 +16,7 @@ references:
 
 I/O Redirection allows us to change destination of data. Reasons to use it are countless. Some of them are clean output when looking for files. Commands like:
 
-```
+```bash
 find / -iname '*.java'
 grep -irl 'Hello World' /
 ```
