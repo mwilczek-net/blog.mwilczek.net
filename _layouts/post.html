@@ -23,9 +23,9 @@ layout: default
         <strong>References</strong>
           {% for reference in page.references %}
             {% if reference[1] %}
-              [reference[1]](reference[0])
+              [{{ reference[1] }}]({{ reference[0] }})
             {% else %}
-              [reference[0]](reference[0])
+              [{{ reference[0] }}]({{ reference[0] }})
             {% endif %}}
           {% endfor %}
         <cite>
