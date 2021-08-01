@@ -10,8 +10,7 @@ categories:   posts
 tags:         ['Bash', 'I/O']
 author:       "mwilczek.net"
 references:
-  "http://www.tldp.org/LDP/abs/html/io-redirection.html":
-    title: ""
+  "http://www.tldp.org/LDP/abs/html/io-redirection.html"
   "http://unix.stackexchange.com/questions/70963/difference-between-2-2-dev-null-dev-null-and-dev-null-21#70971":
     title: ""
 ---
