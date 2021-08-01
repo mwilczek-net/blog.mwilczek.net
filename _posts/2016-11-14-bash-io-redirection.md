@@ -9,6 +9,9 @@ date:         2016-11-14
 categories:   posts
 tags:         ['Bash', 'I/O']
 author:       "mwilczek.net"
+references:
+  http://www.tldp.org/LDP/abs/html/io-redirection.html
+  http://unix.stackexchange.com/questions/70963/difference-between-2-2-dev-null-dev-null-and-dev-null-21#70971
 ---
 
 I/O Redirection allows us to change destination of data. Reasons to use it are countless. Some of them are clean output when looking for files. Commands like:
