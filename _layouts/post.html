@@ -25,9 +25,9 @@ layout: default
         {% for r in page.references %}
             <cite>
               {% if r[1] %}
-                [{{ r[1].title }}]({{ r[0] }})
+                <a href="r[0]">{{ r[1].title }}</a>
               {% else %}
-                [{{ r[0] }}]({{ r[0] }})
+                <a href="r[0]">{{ r[0] }}</a>
               {% endif %}
             </cite><br>
         {% endfor %}
