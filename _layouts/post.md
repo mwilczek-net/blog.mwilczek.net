@@ -23,7 +23,13 @@ layout: default
         <h2>References</h2>
 
         {% for r in page.references %}
-            <cite>{{ r[1].title }}{{ r[0] }}</cite><br>
+            <cite>
+              {% if r[1] %}
+                [{{ r[1].title }}]({{ r[0] }})
+              {% else %}
+                [{{ r[0] }}]({{ r[0] }})
+              {% endif %}
+            </cite><br>
         {% endfor %}
       </div>
     {% endif %}
