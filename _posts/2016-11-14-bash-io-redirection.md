@@ -16,10 +16,10 @@ references:
 
 I/O Redirection allows us to change destination of data. Reasons to use it are countless. Some of them are clean output when looking for files. Commands like:
 
-{% highlight bash %}
+```
 find / -iname '*.java'
 grep -irl 'Hello World' /
-{% endhighlight %}
+```
 
 Produces huge amount of errors when we try to look into directory (or files) without proper permission.
 
