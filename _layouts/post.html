@@ -22,8 +22,8 @@ layout: default
       <div class="post-more">
         <h2>References</h2>
 
-        {% for reference in page.references %}
-            <cite>Link: {{ reference[1].title }}{{ refernce[0] }}</cite><br>
+        {% for r in page.references %}
+            <cite>Link: {{ r[1].title }}{{ r[0] }}</cite><br>
         {% endfor %}
       </div>
     {% endif %}
