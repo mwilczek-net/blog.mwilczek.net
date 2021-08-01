@@ -22,11 +22,7 @@ layout: default
       <div class="post-more">
         <strong>References</strong>
           {% for reference in page.references %}
-            {% if reference[1] %}
-              [{{ reference[1] }}]({{ reference[0] }})
-            {% else %}
-              [{{ reference[0] }}]({{ reference[0] }})
-            {% endif %}}
+            {{ reference }}
           {% endfor %}
         <cite>
       </div>
