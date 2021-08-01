@@ -23,13 +23,13 @@ layout: default
         <h2>References</h2>
 
         {% for r in page.references %}
-            <cite>
+            <cite style="display: block">
               {% if r[1] %}
-                <a href="{{ r[0] }}">{{ r[1].title }}</a>
+                <a href="{{ r[0] }}" target="_blank">{{ r[1].title }}</a>
               {% else %}
-                <a href="{{ r[0] }}">{{ r[0] }}</a>
+                <a href="{{ r[0] }}" target="_blank">{{ r[0] }}</a>
               {% endif %}
-            </cite><br>
+            </cite>
         {% endfor %}
       </div>
     {% endif %}
