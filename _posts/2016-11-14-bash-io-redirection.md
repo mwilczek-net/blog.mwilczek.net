@@ -23,7 +23,7 @@ grep -irl 'Hello World' /
 
 Produces huge amount of errors when we try to look into directory (or files) without proper permission.
 
-```
+```bash
 find: /.DocumentRevisions-V100: Permission denied
 find: /.fseventsd: Permission denied
 find: /.Spotlight-V100: Permission denied
