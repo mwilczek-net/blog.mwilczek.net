@@ -1,14 +1,14 @@
 ---
 bg_credential: <a href="https://unsplash.com/@amfiloxia_68?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">George Girnas</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-bg:           "george-girnas-6RTn6HZD-RI-unsplash.jpg"
-layout:       post
-title:        "Bash I/O redirection"
-crawlertitle: "Bash I/O redirection"
-summary:      "Redirect input and output in Bash"
-date:         2016-11-14
-categories:   posts
-tags:         ['Bash', 'I/O', '/dev/null']
-author:       "mwilczek.net"
+bg:            "george-girnas-6RTn6HZD-RI-unsplash.jpg"
+layout:        post
+title:         "Bash I/O redirection"
+crawlertitle:  "Bash I/O redirection"
+summary:       "Redirect input and output in Bash"
+date:          2016-11-14
+categories:    posts
+tags:          ['bash', 'I/O', '/dev/null']
+author:        "mwilczek.net"
 references:
   "http://www.tldp.org/LDP/abs/html/io-redirection.html":
   "http://unix.stackexchange.com/questions/70963/difference-between-2-2-dev-null-dev-null-and-dev-null-21#70971":

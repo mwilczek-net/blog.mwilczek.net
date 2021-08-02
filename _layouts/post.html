@@ -25,8 +25,9 @@ layout: default
     {{ content }}
 
     {% if page.references %}
+      <hr>
       <div class="post-more">
-        <h2>References</h2>
+        <h2>More:</h2>
 
         {% for r in page.references %}
             <cite style="display: block">
@@ -38,6 +39,7 @@ layout: default
             </cite>
         {% endfor %}
       </div>
+      </hr>
     {% endif %}
 
     <div class="post-links">
