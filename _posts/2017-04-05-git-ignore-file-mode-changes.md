@@ -17,8 +17,11 @@ references:
 Dealing with different operating systems and different file systems, may causes with unwanted file mode changes. For example file mode `766`, which is correct for Unixes (and similar), will be converted to `666` when fetching code to FAT file system.
 
 ```bash
-git config core.fileMode false # configuration for current repo
-git config --global core.fileMode false # global configuration
+# configuration for current repo
+git config core.fileMode false
+
+# global configuration
+git config --global core.fileMode false
 ```
 
 Given commands ignores file mode changes. Of course it may affect you code / application in may ways, but if you need FAT (or other weird file systems)…
