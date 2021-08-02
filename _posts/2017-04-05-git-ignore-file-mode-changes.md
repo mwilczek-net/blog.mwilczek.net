@@ -1,6 +1,6 @@
 ---
 bg_credential: <a href="https://unsplash.com/@ronwhitaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ron Whitaker</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-bg:            ""
+bg:            "ron-whitaker-jH_-L1C_o6Q-unsplash.jpg"
 layout:        post
 title:         "Git – ignore file mode changes"
 crawlertitle:  "Git – ignore file mode changes"
