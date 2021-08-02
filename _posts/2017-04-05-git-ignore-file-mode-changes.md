@@ -7,7 +7,7 @@ crawlertitle:  "Git – ignore file mode changes"
 summary:       "When jumiping from OS to OS"
 date:          2017-04-05
 categories:    posts
-tags:          ['git', 'fileMode', 'file system']
+tags:          ['git', 'file mode', 'file system']
 author:        "mwilczek.net"
 references:
   "https://stackoverflow.com/questions/1580596/how-do-i-make-git-ignore-file-mode-chmod-changes/1580644#1580644":
