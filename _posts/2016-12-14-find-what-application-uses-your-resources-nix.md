@@ -5,7 +5,7 @@ layout:        post
 title:         "Find what application uses your resources (*nix)"
 crawlertitle:  "Find what application uses your resources (*nix) - lsof"
 summary:       "lsof command"
-date:          2016-11-14
+date:          2016-12-14
 categories:    posts
 tags:          ['bash', 'kill', 'lsof', 'ports']
 author:        "mwilczek.net"
@@ -26,7 +26,7 @@ lsof -i tcp:3000
 lsof [file]
 ```
 
-Those commands give command name, pid, and other infos, but those two first are crucial. The easiest way from this point is to kill all processes.
+Those commands give `command name`, `pid`, and other info, but those two first are crucial. The easiest way from this point is to kill all processes.
 
 ```bash
 lsof -i tcp:8000 | awk '{print $2;}' | tail -n +2 | xargs kill -kill
@@ -35,4 +35,4 @@ lsof -i tcp:8000 | awk '{print $2;}' | tail -n +2 | xargs kill -kill
 lsof -i tcp:8000 | awk '{print $2;}' | tail -n +2 | xargs sudo kill -kill
 ```
 
-Command tail help us skipping header.
+Command `tail` help us skipping header.

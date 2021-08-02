@@ -1,13 +1,13 @@
 ---
-bg: "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
 bg_credential: <a href="https://unsplash.com/@alesnesetril?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ales Nesetril</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-layout: page
-date: 2021-07-27
-title: "About"
-crawlertitle: "Why and how this blog was created"
-permalink: /about/
-summary: "About blog.mwilczek.net"
-active: about
+bg:            "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
+layout:        page
+date:          2021-07-27
+title:         "About"
+crawlertitle:  "Why and how this blog was created"
+permalink:     /about/
+summary:       "About blog.mwilczek.net"
+active:        about
 ---
 
 # blog.mwilczek.net
