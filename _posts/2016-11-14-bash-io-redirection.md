@@ -7,7 +7,7 @@ crawlertitle: "Bash I/O redirection"
 summary:      "Redirect input and output in Bash"
 date:         2016-11-14
 categories:   posts
-tags:         ['Bash', 'I/O']
+tags:         ['Bash', 'I/O', '/dev/null']
 author:       "mwilczek.net"
 references:
   "http://www.tldp.org/LDP/abs/html/io-redirection.html":
