@@ -1,6 +1,6 @@
 ---
-bg_credential:
-bg:            ""
+bg_credential: <a href="https://unsplash.com/@tvick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor Vick</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg:            "taylor-vick-M5tzZtFCOfs-unsplash.jpg"
 layout:        post
 title:         "How to disconnect hanged ssh session?"
 crawlertitle:  "How to disconnect hanged ssh session?"
