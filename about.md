@@ -15,6 +15,10 @@ active:        about
 This page is an aggregator, for some knowledge found on the internet and mixed with my contribution.
 For me, the biggest idea behind this page, is to avoid searching the same content over and over again.
 
+## Author
+
+mwilczek.net
+
 ## Copy rights
 
 But knowledge evolves only when shared! If you want share something what was found here, then share!
