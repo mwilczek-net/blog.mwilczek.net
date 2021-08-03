@@ -5,7 +5,7 @@ layout: page
 permalink: /tags/
 title: "Tags"
 crawlertitle: "All articles"
-summary: "All articles in chronological order"
+summary: "Posts grouped by tags"
 active: tags
 ---
 

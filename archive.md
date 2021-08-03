@@ -5,7 +5,7 @@ layout: page
 permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
-summary: "Posts grouped by tags"
+summary: "All articles in chronological order"
 active: archive
 ---
 
