@@ -9,8 +9,14 @@ summary: "Posts grouped by tags"
 active: tags
 ---
 
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+  <h2 class="category-key" id="{{ t | downcase }}">{{ t }}</h2>
+
   <ul class="year">
-    {% for post in site.posts %}
+    {% for post in posts %}
       {% if post.tags contains t %}
         <li>
           {% if post.lastmod %}
@@ -24,3 +30,5 @@ active: tags
       {% endif %}
     {% endfor %}
   </ul>
+
+{% endfor %}
