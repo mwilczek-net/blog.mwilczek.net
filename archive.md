@@ -19,6 +19,11 @@ active: archive
         <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
         <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
       {% endif %}
+      <p class="post-meta">
+        {% for tag in post.tags %}
+          <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">#{{ tag }}</a>&nbsp;
+        {% endfor %}
+      </p>
     </li>
   {% endfor %}
 </ul>
