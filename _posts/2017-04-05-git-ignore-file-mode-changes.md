@@ -2,8 +2,8 @@
 bg_credential: <a href="https://unsplash.com/@ronwhitaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ron Whitaker</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 bg:            "ron-whitaker-jH_-L1C_o6Q-unsplash.jpg"
 layout:        post
-title:         "Git – ignore file mode changes"
-crawlertitle:  "Git – ignore file mode changes"
+title:         "GIT – ignore file mode changes"
+crawlertitle:  "GIT – ignore file mode changes"
 summary:       "When jumiping from OS to OS"
 date:          2017-04-05
 categories:    posts
