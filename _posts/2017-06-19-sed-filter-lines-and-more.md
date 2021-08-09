@@ -4,7 +4,7 @@ bg:            "ricardo-gomez-angel-GsZLXA4JPcM-unsplash.jpg"
 layout:        post
 title:         "sed – filter lines and more"
 crawlertitle:  "sed – filter lines and more"
-summary:       "Filter bash input"
+summary:       "Filter shell input"
 date:          2017-06-17
 categories:    posts
 tags:          ['bash', 'grep', 'sed']
