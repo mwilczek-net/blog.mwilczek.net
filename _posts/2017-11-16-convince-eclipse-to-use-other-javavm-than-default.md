@@ -19,6 +19,9 @@ Just edit `eclipse.ini` file (macOS path: `/Applications/Eclipse.app/Contents/Ec
 /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/bin/java
 ```
 
+Where `/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/bin/java` points to JDK 1.8.0 on MacOS.
+Adjust path depending on your system and desired Java version.
+
 File should look similar to:
 
 ```ini
