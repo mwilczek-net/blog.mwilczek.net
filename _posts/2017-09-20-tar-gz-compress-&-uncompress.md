@@ -5,7 +5,7 @@ layout:        post
 title:         ".tar.gz &mdash; compress & uncompress"
 crawlertitle:  ".tar.gz &mdash; compress & uncompress"
 summary:       "Archive and compression"
-date:          2017-06-17
+date:          2017-09-17
 categories:    posts
 tags:          ['tar', 'gzip', '.tar.gz']
 author:        "mwilczek.net"
