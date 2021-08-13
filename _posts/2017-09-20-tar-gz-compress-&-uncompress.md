@@ -2,8 +2,8 @@
 bg_credential: <a href="https://unsplash.com/@fotograw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitriy Demidov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 bg:            "dmitriy-demidov-X41i5nIsVw4-unsplash.jpg"
 layout:        post
-title:         ".tar.gz – compress & uncompress"
-crawlertitle:  ".tar.gz – compress & uncompress"
+title:         ".tar.gz &mdash; compress & uncompress"
+crawlertitle:  ".tar.gz &mdash; compress & uncompress"
 summary:       "Archive and compression"
 date:          2017-06-17
 categories:    posts
@@ -20,7 +20,7 @@ Quickly create tar.gz archive:
 tar -cvzf tar_file_name.tar.gz ITEMS_TO_BE_COMPRESSED
 ```
 
-`ITEMS_TO_BE_COMPRESSED` - can be single file, single folder, or group of files.
+`ITEMS_TO_BE_COMPRESSED` &mdash; can be single file, single folder, or group of files.
 
 Quick uncompress:
 
