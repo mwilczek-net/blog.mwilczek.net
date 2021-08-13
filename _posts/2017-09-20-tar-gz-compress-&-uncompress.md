@@ -20,7 +20,7 @@ Quickly create tar.gz archive:
 tar -cvzf tar_file_name.tar.gz ITEMS_TO_BE_COMPRESSED
 ```
 
-ITEMS_TO_BE_COMPRESSED can be single file, single folder, or group of files.
+`ITEMS_TO_BE_COMPRESSED` can be single file, single folder, or group of files.
 
 Quick uncompress:
 
