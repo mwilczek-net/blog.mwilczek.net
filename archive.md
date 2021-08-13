@@ -12,11 +12,11 @@ active: archive
 <ul class="year">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       {% if post.lastmod %}
-        <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
+        <span class="date">{{ post.lastmod | date: "%d-%m-%Y" }}</span>
       {% else %}
-        <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
+        <span class="date">{{ post.date | date: "%d-%m-%Y" }}</span>
       {% endif %}
       <p class="post-meta">
         {% for tag in post.tags %}
