@@ -2,8 +2,8 @@
 bg_credential: <a href="https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 bg:            "ricardo-gomez-angel-GsZLXA4JPcM-unsplash.jpg"
 layout:        post
-title:         "sed – filter lines and more"
-crawlertitle:  "sed – filter lines and more"
+title:         "sed &mdash; filter lines and more"
+crawlertitle:  "sed &mdash; filter lines and more"
 summary:       "Filter shell input"
 date:          2017-06-17
 categories:    posts
