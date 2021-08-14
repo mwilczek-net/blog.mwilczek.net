@@ -12,7 +12,7 @@ active: archive
 <ul class="year">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ forloop.index }} - {{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ (site.posts | size) - forloop.index }} - {{ post.title }}</a>
       {% if post.lastmod %}
         <span class="date">{{ post.lastmod | date: "%d-%m-%Y" }}</span>
       {% else %}
