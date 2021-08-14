@@ -4,7 +4,7 @@ bg:            "markus-spiske-uPXs5Vx5bIg-unsplash.jpg"
 layout:        post
 title:         "Sudo with env variables"
 crawlertitle:  "Sudo with env variables"
-summary:       "Set variables in nev context"
+summary:       "Set variables in new context"
 date:          2018-03-06
 categories:    posts
 tags:          ['bash', 'sudo', 'env']
