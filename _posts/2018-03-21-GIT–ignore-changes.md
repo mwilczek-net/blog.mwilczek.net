@@ -1,6 +1,6 @@
 ---
-bg_credential:
-bg:            ""
+bg_credential: <a href="https://unsplash.com/@6heinz3r?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel Heinzer</a> on <a href="https://unsplash.com/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg:            "gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg"
 layout:        post
 title:         "Bash I/O redirection"
 crawlertitle:  "Bash I/O redirection"
