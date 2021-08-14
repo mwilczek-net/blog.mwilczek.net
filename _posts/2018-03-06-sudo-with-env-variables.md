@@ -35,7 +35,7 @@ sudo VARIABLE_1=$value_for_variable_1 VARIABLE_2=$value_for_variable_2 bash
 If you need to pass parameters to command as it's parameters you can use alias:
 
 ```bash
-alias sudo_spell="sudo command $var1 $var2 $var3"
+alias sudo_spell="sudo command ${var1} ${var2} ${var3}"
 sudo_spell
 ```
 
