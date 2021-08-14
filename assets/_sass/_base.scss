@@ -101,7 +101,11 @@ pre {
   -webkit-font-smoothing: auto;
 }
 
-
+code {
+  &.language-plaintext {
+    color: #1e8449
+  }
+}
 
 /*
 * Table
