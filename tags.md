@@ -21,7 +21,7 @@ active: tags
         <li>
           {% if post.lastmod %}
             <a href="{{ post.url | relative_url }}">
-              {{ site.posts | size | minus: forloop.index | plus: 1 }} &mdash; {{ post.title }}
+              {{ site.posts | size | minus: forloop.index | plus: 1 }}: {{ post.title }}
             </a>
             <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
           {% else %}
