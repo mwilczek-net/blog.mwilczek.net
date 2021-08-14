@@ -2,7 +2,7 @@
 bg: "c-m-X_j3b4rqnlk-unsplash.jpg"
 bg_credential: <a href="https://unsplash.com/@ubahnverleih?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">C M</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 layout: page
-permalink: /posts/
+permalink: /archive/
 title: "Archive"
 crawlertitle: "All articles"
 summary: "All articles in chronological order"
