@@ -20,7 +20,7 @@ active: tags
       {% if post.tags contains t %}
         <li>
           <a href="{{ post.url | relative_url }}">
-            {{ site.posts | size | minus: forloop.index | plus: 1 }}: {{ post.title }}
+            {{ forloop.index }}: {{ post.title }}
           </a>
           {% if post.lastmod %}
             <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
