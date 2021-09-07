@@ -10,6 +10,8 @@ categories:    posts
 tags:          ['bash', 'multithread', 'subprocess']
 author:        "mwilczek.net"
 references:
+  "https://stackoverflow.com/questions/4549489/can-i-change-the-name-of-nohup-out":
+    "More about nohup variations"
 ---
 
 If you need to perform two or more time consuming jobs, and these jobs can be run independently,
@@ -84,5 +86,7 @@ nohup time_consuming_task > output_file &
 When closing bash session you may get warn, that background task is running. Don’t worry it will finish everything as expected and print output to given file.
 
 Unfortunately, syntax with different output file may not work in some environments.
-More info about variations of `nohup` command, can be found here:
-https://stackoverflow.com/questions/4549489/can-i-change-the-name-of-nohup-out
+
+## screen
+
+For tasks, that should work even when terminal window is closed, please consider using `screen`.
