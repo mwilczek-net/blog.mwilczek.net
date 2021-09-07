@@ -4,7 +4,7 @@ bg:            "amirali-mirhashemian-kiH-RBm08NQ-unsplash.jpg"
 layout:        post
 title:         "BASH & multithreading"
 crawlertitle:  "Multithreading with BASH"
-summary:       "If you need to perform two or more time consuming jobs, and these jobs can be run independently, you can still use Bash"
+summary:       "Multitasking in shell"
 date:          2018-04-01
 categories:    posts
 tags:          ['bash', 'multithread', 'subprocess']
