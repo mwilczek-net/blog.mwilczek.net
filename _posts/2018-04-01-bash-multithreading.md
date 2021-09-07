@@ -17,7 +17,7 @@ references:
 If you need to perform two or more time consuming jobs, and these jobs can be run independently,
 you can still use BASH.
 
-## Just bash
+## Just BASH
 
 Bash allows running scripts, programs and functions as background tasks. Also, Bash provides joining mechanism. First running tasks in background.
 
