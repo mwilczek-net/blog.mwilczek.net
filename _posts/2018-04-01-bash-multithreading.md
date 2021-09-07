@@ -11,7 +11,7 @@ tags:          ['bash', 'multithread', 'subprocess']
 author:        "mwilczek.net"
 references:
   "https://stackoverflow.com/questions/4549489/can-i-change-the-name-of-nohup-out":
-    "More about nohup variations"
+    title: "More about nohup variations"
 ---
 
 If you need to perform two or more time consuming jobs, and these jobs can be run independently,
