@@ -1,6 +1,6 @@
 ---
 bg_credential: <a href="https://unsplash.com/@amir_v_ali?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">amirali mirhashemian</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-bg:            "amirali-mirhashemian-kiH-RBm08NQ-unsplash"
+bg:            "amirali-mirhashemian-kiH-RBm08NQ-unsplash.jpg"
 layout:        post
 title:         "BASH & multithreading"
 crawlertitle:  "Multithreading with BASH"
