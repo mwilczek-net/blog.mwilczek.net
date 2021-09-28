@@ -4,7 +4,7 @@ bg:            "markus-spiske-VO5w2Ida70s-unsplash.jpg"
 layout:        post
 title:         "Bash reusing parameters – BANG (!)"
 crawlertitle:  "Bash reusing parameters – BANG (!)"
-summary:       "!! !* !^ !$ !:0 !:n-m"
+summary:       "!! &nbsp; !* &nbsp; !^ &nbsp; !$ &nbsp; !:0 &nbsp; !:n-m"
 date:          2018-04-24
 categories:    posts
 tags:          ['bash', 'parameters', 'reuse', '!']
