@@ -9,7 +9,8 @@ summary: "Posts grouped by tags"
 active: tags
 ---
 
-{% for tag in site.tags %}
+{% assing sorted_tags = site.tags | sort}
+{% for tag in sorted_tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
