@@ -5,7 +5,7 @@ layout:        post
 title:         "GIT &mdash; cherry-pick"
 crawlertitle:  "GIT &mdash; cherry-pick more powerful than you think!"
 summary:       "Moving commits form branch to branch"
-date:          2017-04-05
+date:          2021-11-06
 categories:    posts
 tags:          ['git', 'cherry-pick', 'commit']
 author:        "mwilczek.net"
