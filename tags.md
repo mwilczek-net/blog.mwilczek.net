@@ -13,7 +13,11 @@ active: tags
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-  <h2 class="category-key" id="{{ t | downcase }}">{{ t }}</h2>
+  <h2 class="category-key" id="{{ t | downcase }}">
+    <a href="{{ site.baseurl }}/tags/#{{ t | downcase }}">
+      #{{ t }}
+    </a>
+  </h2>
 
   <ul class="year">
     {% for post in posts %}
