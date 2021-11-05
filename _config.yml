@@ -24,7 +24,7 @@ markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
 
 # Posts settings
-future: false
+future: true
 safe: false
 lsi: false
 excerpt_separator: "\n\n"
