@@ -16,9 +16,9 @@ active: archive
         {{ site.posts | size | minus: forloop.index | plus: 1 }}: {{ post.title }}
       </a>
       {% if post.lastmod %}
-        <span class="date">{{ post.lastmod | date: "%d-%m-%Y" }}</span>
+        <span class="date">{{ post.lastmod | date: "%Y-%m-%d" }}</span>
       {% else %}
-        <span class="date">{{ post.date | date: "%d-%m-%Y" }}</span>
+        <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
       {% endif %}
       <p class="post-meta">
         {% for tag in post.tags %}
