@@ -7,9 +7,9 @@
     {% if page.crawlertitle %}
       {{ page.crawlertitle | escape }}
     {% elsif page.title %}
-      {{ page.title | escape }}
+      {{ page.title }}
     {% else %}
-      {{ site.title | escape }}
+      {{ site.title }}
     {% endif %}
   </title>
 
