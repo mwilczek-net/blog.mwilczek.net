@@ -15,6 +15,8 @@ references:
   "https://linux.die.net/man/1/awk":
 ---
 
+`awk` is designed to process text for raports. Let's think about different methods of splitting text.
+
 ## Default behaviour
 
 Split by white characters and take second part
