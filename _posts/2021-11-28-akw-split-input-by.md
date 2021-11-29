@@ -15,7 +15,7 @@ references:
   "https://linux.die.net/man/1/awk":
 ---
 
-`awk` is designed to process text for raports. Let's think about different methods of splitting text.
+`awk` is designed to process text for reports. Let's think about different methods of splitting text.
 
 ## Default behaviour
 
