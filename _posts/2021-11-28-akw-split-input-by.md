@@ -2,7 +2,7 @@
 bg_credential: <a href="https://unsplash.com/@hirmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Max Kleinen</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 bg:            "max-kleinen-lMiYuow_KZE-unsplash.jpg"
 layout:        post
-title:         "AWK split input by &hellip;"
+title:         "AWK split input by&hellip;"
 crawlertitle:  "AWK split input by char, string or regex"
 summary:       "By default AWK split input by white chars"
 date:          2021-11-28
