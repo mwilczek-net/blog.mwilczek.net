@@ -1,5 +1,9 @@
 <footer class="blog-footer content-wrapper">
-  <p>&copy; <span class="full-year"></span> {{ site.title_long }}</p>
+  <p>
+    &copy;
+    <span class="full-year"></span>
+    <a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>
+  </p>
   <p>
     {% if page.bg_credential %}
       Background by: &nbsp; {{ page.bg_credential }}

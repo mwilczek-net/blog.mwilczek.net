@@ -18,6 +18,9 @@ url: "https://blog.mwilczek.net/" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 disqus_username:
+author:
+  name: "mwilczek.net"
+  url: "https://mwilczek-net.github.io/"
 
 # Build settings
 markdown: kramdown
