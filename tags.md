@@ -31,6 +31,11 @@ active: tags
           {% else %}
             <span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
           {% endif %}
+          <p class="post-meta">
+            {% for tag in post.tags %}
+              <a href="{{ site.baseurl }}/tags/#{{ tag | downcase }}">#{{ tag }}</a>&nbsp;
+            {% endfor %}
+          </p>
         </li>
       {% endif %}
     {% endfor %}
