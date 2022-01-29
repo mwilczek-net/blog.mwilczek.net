@@ -36,7 +36,7 @@ echo •
 
 If coping won't work. Instead of `•` press left `ALT` and on numeric keyboard type `7`
 ([ALT Codes]({% post_url 2022-01-26-alt-codes %})).
-When using BASH, `-e` switch allows translating `\07` into char that rings a bell, but on Windows ALT Codes does the work.
-More about [ALT Codes here]({% post_url 2022-01-26-alt-codes %}).
+When using BASH, `-e` switch allows translating `\07` into char that rings a bell, but on Windows [ALT Codes]({% post_url 2022-01-26-alt-codes %}) does the work.
+More about [ALT Codes at dedicated post: >>HERE<<]({% post_url 2022-01-26-alt-codes %}).
 
 If no script is needed and still information on command end is needed, then press `CTRL + G` ring the bell.
