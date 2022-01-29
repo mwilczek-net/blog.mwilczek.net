@@ -24,9 +24,12 @@ layout: default
 
     {{ content }}
 
-    {% if page.references %}
+    {% if page.references or page.next.url or page.previous.url %}
       <br>
       <hr>
+    {% endif %}
+
+    {% if page.references %}
       <div class="post-more">
         <h2 id="more-links-section">More:</h2>
 
