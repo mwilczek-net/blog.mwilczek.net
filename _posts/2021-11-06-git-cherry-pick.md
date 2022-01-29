@@ -51,22 +51,24 @@ Fortunately, `git cherry-pick` supports ranges!
 Lets suppose that source branch looks like this:
 
 ```
- Z
- |
- Y
- |
- X
- |
-...
- |
- D
- |
- C
- |
- B
- |
- A
- |
+Last commit (HEAD)
+  |
+  Z
+  |
+  Y
+  |
+  X
+  |
+ ...
+  |
+  D
+  |
+  C
+  |
+  B
+  |
+  A
+  |
 Initial Commit
 ```
 
