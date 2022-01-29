@@ -108,6 +108,9 @@ hr {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
     height: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-color: rgba(0,0,0,0.5);
 }
 
 pre {
