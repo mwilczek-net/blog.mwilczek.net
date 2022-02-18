@@ -16,7 +16,7 @@ active:        links
 
 - [The QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Groovy Web Console](https://groovyconsole.appspot.com/)
-- [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial
+- [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial numbers
 - HTML Entity Codes:
   - [EntityCode.com](https://entitycode.com/)
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
