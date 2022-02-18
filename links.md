@@ -28,6 +28,8 @@ active:        links
 
 ## Software
 
+Software itself is big group. Therefore, it was split for better navigation.
+
 ### Editors / IDE
 
 - [Atom](https://atom.io/)
