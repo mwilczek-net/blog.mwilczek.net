@@ -1,9 +1,9 @@
 ---
-bg_credential: <a href="https://unsplash.com/@sammisamuel21?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sam Albury</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-bg:            "sam-albury-oA7MMRxTVzo-unsplash.jpg"
+bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Ritchie</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg:            "brett-ritchie-1vKTnwLMdqs-unsplash.jpg"
 layout:        page
 date:          2022-02-18
-title:         "Useful links and other references"
+title:         "Links"
 crawlertitle:  "Useful links and other references that may help you"
 permalink:     /links/
 summary:       "Links that I use often. May help you too"
