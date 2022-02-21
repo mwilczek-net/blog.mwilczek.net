@@ -45,6 +45,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/)
+- [Texmaker](https://www.xm1math.net/texmaker/) &mdash; LaTeX editor
 
 ## Cartoons (aka Sad But True)
 
