@@ -12,8 +12,6 @@ active:        links
 
 # Usefull links and other resources
 
-{:toc} 
-
 ## Services
 
 - [The QR Code Generator](https://www.the-qrcode-generator.com/)
