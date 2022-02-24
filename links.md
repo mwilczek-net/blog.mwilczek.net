@@ -44,7 +44,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ### Office
 
-- [LibreOffice](https://www.libreoffice.org/) &mdash; Good (if not the best) office suite
+- [LibreOffice](https://www.libreoffice.org/) &mdash; Good (if not the best) free office suite
 - [Texmaker](https://www.xm1math.net/texmaker/) &mdash; LaTeX editor
 - [Thunderbird](https://www.thunderbird.net/en-US/) &mdash; Email application
 
