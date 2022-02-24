@@ -17,14 +17,13 @@ active:        links
 - [The QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Groovy Web Console](https://groovyconsole.appspot.com/)
 - [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial numbers
+
+## References
+
 - HTML Entity Codes:
   - [EntityCode.com](https://entitycode.com/)
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp) &mdash; Link to the top of an iceberg
-
-## References
-
-- [HTML Entities (w3schools.com)](https://www.w3schools.com/html/html_entities.asp)
 
 ## Software
 
