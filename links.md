@@ -34,13 +34,13 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 - [Atom](https://atom.io/)
 - [Sublime Text](http://www.sublimetext.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) &mdash; VS **CODE** IS **NOT** FULL AND HEAVY IDE!!!
+- [Visual Studio Code](https://code.visualstudio.com/) &mdash; VS **CODE** IS **NOT** FULL AND HEAVY IDE!!! Just Visual Studio is full and heavy IDE. VS Code is lightweight editor.
 
 ### Graphic
 
-- [GIMP](https://www.gimp.org/)
-- [RawTherapee](https://rawtherapee.com/)
-- [Inkscape](https://inkscape.org)
+- [GIMP](https://www.gimp.org/) &mdash; Raster graphics editor
+- [RawTherapee](https://rawtherapee.com/) &mdash; Non-destructive RAW photo processing (it also digest JPG)
+- [Inkscape](https://inkscape.org) &mdash; Vector graphics editor
 
 ### Office
 
