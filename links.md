@@ -33,6 +33,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 ### Editors / IDE
 
 - [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Visual Studio Code](https://code.visualstudio.com/) &mdash; VS **CODE** IS **NOT** FULL AND HEAVY IDE!!! Just Visual Studio is full and heavy IDE. VS Code is lightweight editor.
 
@@ -44,8 +45,16 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ### Office
 
-- [LibreOffice](https://www.libreoffice.org/)
+- [LibreOffice](https://www.libreoffice.org/) &mdash; Good (if not the best) office suite
 - [Texmaker](https://www.xm1math.net/texmaker/) &mdash; LaTeX editor
+- [Thunderbird](https://www.thunderbird.net/en-US/) &mdash; Email application
+
+### Browsers
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox Quantum](https://www.mozilla.org/en-US/firefox/browsers/quantum/) &mdash; dedicated for developers
+- [Vivaldi](https://vivaldi.com)
+- [Opera](https://www.opera.com/) &mdash; I know&hellip; Nobody use, it except me. Good as a backup and for separating browsing context
 
 ## Cartoons (aka Sad But True)
 
