@@ -3,6 +3,7 @@ bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_sour
 bg:            "brett-ritchie-1vKTnwLMdqs-unsplash.jpg"
 layout:        page
 date:          2022-02-18
+lastmod:       2022-02-27
 title:         "Links"
 crawlertitle:  "Useful links and other references that may help you"
 permalink:     /links/
@@ -25,6 +26,13 @@ active:        links
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp) &mdash; Link to the top of an iceberg
 
+## Stocks media (free or with free option)
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com)
+- [Pixabay](https://pixabay.com)
+- [Freepik](https://www.freepik.com/)
+
 ## Software
 
 Software itself is big group. Therefore, it was split for better navigation.
@@ -41,6 +49,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [GIMP](https://www.gimp.org/) &mdash; Raster graphics editor
 - [RawTherapee](https://rawtherapee.com/) &mdash; Non-destructive RAW photo processing (it also digest JPG)
 - [Inkscape](https://inkscape.org) &mdash; Vector graphics editor
+- [Photopea](https://www.photopea.com/) &mdash; Free online photo editor (compatible with `PSD` files). Today works better (faster) on WebKit browsers.
 
 ### Office
 
