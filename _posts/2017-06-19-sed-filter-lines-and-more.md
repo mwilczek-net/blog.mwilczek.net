@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "ricardo-gomez-angel-GsZLXA4JPcM-unsplash.jpg"
 layout:        post
 title:         "sed &mdash; filter lines and more"

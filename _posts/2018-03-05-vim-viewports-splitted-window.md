@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Henry & Co.</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@hngstrm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Henry & Co.</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "henry-co-K4GqdInyBQI-unsplash.jpg"
 layout:        post
 title:         "VIM viewports &mdash; splitted window"

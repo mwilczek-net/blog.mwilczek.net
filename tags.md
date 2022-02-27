@@ -1,6 +1,6 @@
 ---
 bg: "jan-antonin-kolar-lRoX0shwjUQ-unsplash.jpg"
-bg_credential: <a href="https://unsplash.com/@jankolar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jan Antonin Kolar</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@jankolar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Jan Antonin Kolar</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 layout: page
 permalink: /tags/
 title: "Tags"

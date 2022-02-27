@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@6heinz3r?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel Heinzer</a> on <a href="https://unsplash.com/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@6heinz3r?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Gabriel Heinzer</a> on <a href="https://unsplash.com/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg"
 layout:        post
 title:         "git &mdash; ignore changes"

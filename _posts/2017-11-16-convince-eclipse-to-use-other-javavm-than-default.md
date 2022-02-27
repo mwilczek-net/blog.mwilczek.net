@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@sarahleejs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jongsun Lee</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@sarahleejs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Jongsun Lee</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "jongsun-lee-F-pSZO_jeE8-unsplash.jpg"
 layout:        post
 title:         "Convince Eclipse to use other JavaVM than default"

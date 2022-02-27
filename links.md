@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Ritchie</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Brett Ritchie</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "brett-ritchie-1vKTnwLMdqs-unsplash.jpg"
 layout:        page
 date:          2022-02-18

@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@fotograw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitriy Demidov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@fotograw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Dmitriy Demidov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "dmitriy-demidov-X41i5nIsVw4-unsplash.jpg"
 layout:        post
 title:         ".tar.gz &mdash; compress & uncompress"

@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="https://unsplash.com/s/photos/bin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Steve Johnson</a> on <a href="https://unsplash.com/s/photos/bin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "steve-johnson-Kr8Tc8Rugdk-unsplash.jpg"
 layout:        post
 title:         "Find what application uses your resources (*nix)"

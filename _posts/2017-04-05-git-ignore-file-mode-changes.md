@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/@ronwhitaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ron Whitaker</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/@ronwhitaker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Ron Whitaker</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "ron-whitaker-jH_-L1C_o6Q-unsplash.jpg"
 layout:        post
 title:         "GIT &mdash; ignore file mode changes"
