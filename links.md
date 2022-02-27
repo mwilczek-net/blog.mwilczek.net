@@ -26,7 +26,12 @@ active:        links
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp) &mdash; Link to the top of an iceberg
 
-## Stocks media (free or with free option)
+## Stocks (free or with free option)
+
+Listed stocks still evolves or splits into different services. Today, on listed pages, you can find photos, images,
+videos, sounds and music. Some pages may have links to other products with dedicated subsets or complementary services.
+
+Recently, I spotted that their evolution increased speed.
 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com)
@@ -47,9 +52,9 @@ Software itself is big group. Therefore, it was split for better navigation.
 ### Graphic
 
 - [GIMP](https://www.gimp.org/) &mdash; Raster graphics editor
-- [RawTherapee](https://rawtherapee.com/) &mdash; Non-destructive RAW photo processing (it also digest JPG)
+- [RawTherapee](https://rawtherapee.com/) &mdash; Non-destructive RAW photo processing (it also digest `JPG`)
 - [Inkscape](https://inkscape.org) &mdash; Vector graphics editor
-- [Photopea](https://www.photopea.com/) &mdash; Free online photo editor (compatible with `PSD` files). Today works better (faster) on WebKit browsers.
+- [Photopea](https://www.photopea.com/) &mdash; Free online photo editor (compatible with `PSD` files). Today works better (faster) on WebKit browsers (Vivaldi for example).
 
 ### Office
 
