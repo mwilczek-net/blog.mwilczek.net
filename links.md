@@ -19,6 +19,8 @@ active:        links
 - [Groovy Web Console](https://groovyconsole.appspot.com/)
 - [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial numbers
 - [crontab guru](https://crontab.guru/) &mdash; The quick and simple editor for cron schedule expressions
+- [PlanITpoker](https://www.planitpoker.com/) &mdash; Helps estimating work in IT / Agile
+- [cyber-dojo](https://cyber-dojo.org) &mdash; a place to practice programming
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/)
 
 ## References
