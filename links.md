@@ -15,7 +15,7 @@ active:        links
 
 ## Services
 
-- [The QR Code Generator](https://www.the-qrcode-generator.com/)
+- [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [Groovy Web Console](https://groovyconsole.appspot.com/)
 - [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial numbers
 - [crontab guru](https://crontab.guru/) &mdash; The quick and simple editor for cron schedule expressions
