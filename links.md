@@ -54,7 +54,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [GIMP](https://www.gimp.org/) &mdash; Raster graphics editor
 - [RawTherapee](https://rawtherapee.com/) &mdash; Non-destructive RAW photo processing (it also digest `JPG`)
 - [Inkscape](https://inkscape.org) &mdash; Vector graphics editor
-- [Photopea](https://www.photopea.com/) &mdash; Free online photo editor (compatible with `PSD` files). Today works better (faster) on WebKit browsers (Vivaldi for example).
+- [Photopea](https://www.photopea.com/) &mdash; Free **online** photo editor (compatible with `PSD` files). Today works better (faster) on WebKit browsers (Vivaldi for example).
 
 ### Office
 
