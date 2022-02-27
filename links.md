@@ -18,6 +18,8 @@ active:        links
 - [The QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Groovy Web Console](https://groovyconsole.appspot.com/)
 - [genapps.pl](http://genapps.pl/) &mdash; Generators and validators for document serial numbers
+- [crontab guru](https://crontab.guru/) &mdash; The quick and simple editor for cron schedule expressions
+- [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/)
 
 ## References
 
@@ -25,6 +27,7 @@ active:        links
   - [EntityCode.com](https://entitycode.com/)
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp) &mdash; Link to the top of an iceberg
+- [Groovy language style guide](https://groovy-lang.org/style-guide.html) &mdash; If you know Java, this will teach you how to Groovy
 
 ## Stocks (free or with free option)
 
