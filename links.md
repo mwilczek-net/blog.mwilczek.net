@@ -25,6 +25,7 @@ active:        links
 
 ## References
 
+- [W3Schools](https://www.w3schools.com/) &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
 - HTML Entity Codes:
   - [EntityCode.com](https://entitycode.com/)
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML)
