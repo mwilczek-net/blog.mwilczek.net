@@ -15,6 +15,7 @@ active:        links
 
 ## Services
 
+- [GitHub](https://github.com/) &mdash; One of the best places to keep and share your code
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 - [genapps.pl](http://genapps.pl/){:target="_blank"} &mdash; Generators and validators for document serial numbers
@@ -73,7 +74,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/){:target="_blank"}
 - [Firefox Quantum](https://www.mozilla.org/en-US/firefox/browsers/quantum/){:target="_blank"} &mdash; dedicated for developers
 - [Vivaldi](https://vivaldi.com){:target="_blank"}
-- [Opera](https://www.opera.com/){:target="_blank"} &mdash; I know&hellip; Nobody use, it except me. Good as a backup and for separating browsing context
+- [Opera](https://www.opera.com/){:target="_blank"} &mdash; I know&hellip; Nobody use it except me. Good as a backup and for separating browsing context
 
 ## Cartoons (aka Sad But True)
 
