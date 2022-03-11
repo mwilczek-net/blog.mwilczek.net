@@ -15,7 +15,7 @@ active:        links
 
 ## Services
 
-- [GitHub](https://github.com/) &mdash; One of the best places to keep and share your code
+- [GitHub](https://github.com/){:target="_blank"} &mdash; One of the best places to keep and share your code
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 - [genapps.pl](http://genapps.pl/){:target="_blank"} &mdash; Generators and validators for document serial numbers
