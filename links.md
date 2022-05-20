@@ -21,7 +21,8 @@ active:        links
 - [genapps.pl](http://genapps.pl/){:target="_blank"} &mdash; Generators and validators for document serial numbers
 - [crontab guru](https://crontab.guru/){:target="_blank"} &mdash; The quick and simple editor for cron schedule expressions
 - [PlanITpoker](https://www.planitpoker.com/){:target="_blank"} &mdash; Helps estimating work in IT / Agile
-- [cyber-dojo](https://cyber-dojo.org){:target="_blank"} &mdash; a place to practice programming
+- [cyber-dojo](https://cyber-dojo.org){:target="_blank"} &mdash; A place to practice programming
+- [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/){:target="_blank"}
 
 ## References
@@ -84,3 +85,8 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [CommitStrip](https://www.commitstrip.com){:target="_blank"}
 - [Garfield](https://www.gocomics.com/garfield){:target="_blank"}
 - [Geek & Poke](https://geek-and-poke.com){:target="_blank"}
+
+## Other
+
+- [Cult of the Party Parrot](https://cultofthepartyparrot.com/){:target="_blank"} &mdash; Useful for expressing your emotions!
+
