@@ -23,7 +23,7 @@ active:        links
 - [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/){:target="_blank"}
 
-## Online Generators and validators
+## Online Generators and Validators
 
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [genapps.pl](http://genapps.pl/){:target="_blank"} &mdash; Generators and validators for document serial numbers
