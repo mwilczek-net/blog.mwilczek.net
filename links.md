@@ -20,8 +20,11 @@ active:        links
 - [crontab guru](https://crontab.guru/){:target="_blank"} &mdash; The quick and simple editor for cron schedule expressions
 - [PlanITpoker](https://www.planitpoker.com/){:target="_blank"} &mdash; Helps estimating work in IT / Agile
 - [cyber-dojo](https://cyber-dojo.org){:target="_blank"} &mdash; A place to practice programming
-- [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/){:target="_blank"}
+
+## Status
+- [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
+- [Python infrastructure](https://status.python.org/){:target="_blank"} &mdash; Check if Python infrastructure is working or crying (PyPI, etc.)
 
 ## Online Generators and Validators
 
