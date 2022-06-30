@@ -35,12 +35,13 @@ active:        links
 
 ## References
 
-- [W3Schools](https://www.w3schools.com/){:target="_blank"} &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
+- [Groovy language style guide](https://groovy-lang.org/style-guide.html){:target="_blank"} &mdash; If you know Java, this will teach you how to Groovy
 - HTML Entity Codes:
   - [EntityCode.com](https://entitycode.com/){:target="_blank"}
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML){:target="_blank"}
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp){:target="_blank"} &mdash; Link to the top of an iceberg
-- [Groovy language style guide](https://groovy-lang.org/style-guide.html){:target="_blank"} &mdash; If you know Java, this will teach you how to Groovy
+- [PDB](https://docs.python.org/3/library/pdb.html) - The Python Debugger - works in terminal
+- [W3Schools](https://www.w3schools.com/){:target="_blank"} &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
 
 ## Stocks (free or with free option)
 
