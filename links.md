@@ -24,6 +24,7 @@ active:        links
 ## Status
 - [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
 - [Python infrastructure](https://status.python.org/){:target="_blank"} &mdash; Check if Python infrastructure is working or crying (PyPI, etc.)
+- [Slack](https://status.slack.com/){:target="_blank"} &mdash; Check if Slack infrastructure is working or crying
 
 ## Online Generators and Validators and Calculators
 
