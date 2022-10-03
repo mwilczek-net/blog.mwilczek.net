@@ -20,6 +20,7 @@ active:        links
 - [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/){:target="_blank"}
 - [PlanITpoker](https://www.planitpoker.com/){:target="_blank"} &mdash; Helps estimating work in IT / Agile
+- [Should I blame caching?](https://shouldiblamecaching.com/){:target="_blank"} &mdash; Was it me or cache?
 
 ## Status
 - [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
@@ -84,7 +85,6 @@ Software itself is big group. Therefore, it was split for better navigation.
 ### Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/){:target="_blank"}
-- [Firefox Quantum](https://www.mozilla.org/en-US/firefox/browsers/quantum/){:target="_blank"} &mdash; dedicated for developers
 - [Vivaldi](https://vivaldi.com){:target="_blank"}
 - [Opera](https://www.opera.com/){:target="_blank"} &mdash; I know&hellip; Nobody use it except me. Good as a backup and for separating browsing context
 
