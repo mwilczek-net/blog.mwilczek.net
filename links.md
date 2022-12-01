@@ -38,7 +38,7 @@ active:        links
 
 ## Books
 
-- [Python for Everybody - few languages](https://www.py4e.com/book) - Both printed and free digital. Translated to few languages
+- [Python for Everybody - few languages](https://www.py4e.com/book){:target="_blank"} &mdash; Both printed and free digital. Translated to few languages
 
 ## References
 
@@ -47,7 +47,7 @@ active:        links
   - [EntityCode.com](https://entitycode.com/){:target="_blank"}
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML){:target="_blank"}
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp){:target="_blank"} &mdash; Link to the top of an iceberg
-- [PDB](https://docs.python.org/3/library/pdb.html) - The Python Debugger - works in terminal
+- [PDB](https://docs.python.org/3/library/pdb.html){:target="_blank"} &mdash; The Python Debugger - works in terminal
 - [W3Schools](https://www.w3schools.com/){:target="_blank"} &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
 
 ## Stocks (free or with free option)
@@ -104,4 +104,3 @@ Software itself is big group. Therefore, it was split for better navigation.
 ## Other
 
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/){:target="_blank"} &mdash; Useful for expressing your emotions!
-
