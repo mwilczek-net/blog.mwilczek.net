@@ -3,7 +3,7 @@ bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_sour
 bg:            "brett-ritchie-1vKTnwLMdqs-unsplash.jpg"
 layout:        page
 date:          2022-02-18
-lastmod:       2022-02-27
+lastmod:       2022-12-01
 title:         "Links"
 crawlertitle:  "Useful links and other references that may help you"
 permalink:     /links/
@@ -35,6 +35,10 @@ active:        links
 - [regular expressions 101](https://regex101.com/){:target="_blank"} &mdash; Test Regular expressions in few different flavours
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [uuidonline.com](https://uuidonline.com/){:target="_blank"} &mdash; UUID generator (v1, v3, v4, v5)
+
+## Books
+
+- [Python for Everybody - few languages](https://www.py4e.com/book) - Both printed and free digital. Translated to few languages
 
 ## References
 
