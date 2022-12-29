@@ -48,8 +48,13 @@ active:        links
   - [EntityCode.com](https://entitycode.com/){:target="_blank"}
   - [Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML){:target="_blank"}
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp){:target="_blank"} &mdash; Link to the top of an iceberg
+- [ohshitgit.com](https://ohshitgit.com/){:target="_blank"} &mdash; Git cheat sheet for emergency situations
 - [PDB](https://docs.python.org/3/library/pdb.html){:target="_blank"} &mdash; The Python Debugger - works in terminal
 - [W3Schools](https://www.w3schools.com/){:target="_blank"} &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
+
+## Configurations
+
+- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa){:target="_blank"} &mdash; Git aliases in few languages. Additional SFW version
 
 ## Stocks (free or with free option)
 
