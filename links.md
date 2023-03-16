@@ -3,7 +3,7 @@ bg_credential: <a href="https://unsplash.com/@brett_ritchie_photography?utm_sour
 bg:            "brett-ritchie-1vKTnwLMdqs-unsplash.jpg"
 layout:        page
 date:          2022-02-18
-lastmod:       2022-12-01
+lastmod:       2023-03-16
 title:         "Links"
 crawlertitle:  "Useful links and other references that may help you"
 permalink:     /links/
@@ -17,7 +17,6 @@ active:        links
 
 - [cyber-dojo](https://cyber-dojo.org){:target="_blank"} &mdash; A place to practice programming
 - [GitHub](https://github.com/){:target="_blank"} &mdash; One of the best places to keep and share your code
-- [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 - [Holidays Calendar (Poland)](https://www.kalendarzswiat.pl/kalendarz/){:target="_blank"}
 - [PlanITpoker](https://www.planitpoker.com/){:target="_blank"} &mdash; Helps estimating work in IT / Agile
 - [Should I blame caching?](https://shouldiblamecaching.com/){:target="_blank"} &mdash; Was it me or cache?
@@ -36,6 +35,11 @@ active:        links
 - [regular expressions 101](https://regex101.com/){:target="_blank"} &mdash; Test Regular expressions in few different flavours
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
 - [uuidonline.com](https://uuidonline.com/){:target="_blank"} &mdash; UUID generator (v1, v3, v4, v5)
+
+## Online Parsers
+
+- [3v4l.org](https://3v4l.org/){:target="_blank"} &mdash; PHP online parser
+- [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 
 ## Books
 
