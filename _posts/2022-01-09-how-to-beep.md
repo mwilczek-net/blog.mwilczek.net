@@ -7,7 +7,7 @@ crawlertitle:  "How to beep in CMD"
 summary:       "Ring the bell with CMD / Terminal"
 date:          2022-01-09
 categories:    posts
-tags:          ['cmd', 'terminal', 'beep', 'bell', 'ring', 'notification']
+tags:          ['cmd', 'terminal', 'shell', 'beep', 'bell', 'ring', 'notification']
 author:        "mwilczek.net"
 references:
   "https://discover.hubpages.com/technology/How-to-Make-a-CMD-Beep-Sound-With-Your-Computer":

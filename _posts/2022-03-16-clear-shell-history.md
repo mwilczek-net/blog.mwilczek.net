@@ -7,7 +7,7 @@ crawlertitle:  "How to clear history for different shells"
 summary:       "BASH: history -c | ZSH: history -p"
 date:          2023-03-16
 categories:    posts
-tags:          ['cmd', 'terminal', 'bell', 'ring', 'notification', 'bash', 'zsh']
+tags:          ['cmd', 'terminal', 'shell', 'bash', 'zsh']
 author:        "mwilczek.net"
 references:
   "https://unix.stackexchange.com/a/607556":
