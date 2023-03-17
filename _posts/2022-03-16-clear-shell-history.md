@@ -1,5 +1,5 @@
 ---
-bg_credential: <a href="https://unsplash.com/de/@fredasem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Freddy Kearney</a> on <a href="https://unsplash.com/photos/enkfvvZkKv0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+bg_credential: <a href="https://unsplash.com/de/@fredasem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Freddy Kearney</a> on <a href="https://unsplash.com/photos/enkfvvZkKv0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 bg:            "freddy-kearney-enkfvvZkKv0-unsplash.jpg"
 layout:        post
 title:         "Clear shell history"
