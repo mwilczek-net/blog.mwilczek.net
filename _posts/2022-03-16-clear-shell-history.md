@@ -16,6 +16,8 @@ references:
   
 ---
 
+Different shells provides similar, yet not the same methods to clear history. This feature is extremely useful if either by accidence or by command requirements, we typed secrets / passwords or other confidential data.
+
 ## bash
 
 ```shell
