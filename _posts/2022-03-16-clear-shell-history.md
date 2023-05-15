@@ -22,10 +22,14 @@ Different shells provides similar, yet not the same methods to clear history. Th
 
 ```shell
 history -c
+# Sometimes required
+rm ~/.bash_history
 ```
 
 ## zsh
 
 ```shell
 history -p
+# Sometimes required
+rm ~/.zsh_history
 ```
