@@ -50,9 +50,7 @@ active:        links
 
 
 - [Python for Everybody - few languages](https://www.py4e.com/book){:target="_blank"} &mdash; Both printed and free digital. Translated to few languages
-- [refactoring.guru](https://refactoring.guru/){:target="_blank"} &mdash; It is not a book, but compiles
-good and solid knowledge form excelent books. Just more interactive and available even if you don't
-have book with you.
+- [refactoring.guru](https://refactoring.guru/){:target="_blank"} &mdash; It is not a book, but compiles good and solid knowledge form excelent books. Just more interactive and available even if you don't have book with you.
 
 
 ## References
