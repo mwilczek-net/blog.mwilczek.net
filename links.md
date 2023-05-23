@@ -47,8 +47,6 @@ active:        links
 - **&quot;Clean Code&quot;** by Uncle Bob (Robert C. Martin) &mdash; How to write beautiful and maintanable code
 - **&quot;Design Patterns: Elements of Reusable Object-Oriented Software&quot;** by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides &mdash; Solid knowledge of design patterns
 - **&quot;The Pragmatic Programmer&quot;** by David Thomas, Andrew Hunt &mdash; Everything is a tool. Learn how to yous your tools as a pro
-
-
 - [Python for Everybody - few languages](https://www.py4e.com/book){:target="_blank"} &mdash; Both printed and free digital. Translated to few languages
 - [refactoring.guru](https://refactoring.guru/){:target="_blank"} &mdash; It is not a book, but compiles good and solid knowledge form excelent books. Just more interactive and available even if you don't have book with you.
 
