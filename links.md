@@ -53,6 +53,7 @@ active:        links
 
 ## References
 
+- [devhints.io](https://devhints.io/){:target="_blank"} &mdash; Rico's cheatsheets (recommended collection of hints and cheats)
 - [Groovy language style guide](https://groovy-lang.org/style-guide.html){:target="_blank"} &mdash; If you know Java, this will teach you how to Groovy
 - HTML Entity Codes:
   - [EntityCode.com](https://entitycode.com/){:target="_blank"}
