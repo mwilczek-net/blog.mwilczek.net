@@ -104,3 +104,20 @@
     });
   }
 })();
+
+
+/*
+* Headers as links
+* ========================================================================== */
+
+(function() {
+  const headings = document.querySelectorAll('h2[id],h3[id],h4[id],h5[id],h6[id]');
+  const linkContent = '<span class="show-on-hover">&nbsp;🔗</span>'; 
+  for (const heading of headings) { 
+    const linkIcon = document.createElement('a'); 
+    linkIcon.setAttribute('href', `#${heading.id}`); 
+    linkIcon.innerHTML = heading.innerHTML + linkContent; 
+    heading.setHTML('')
+    heading.appendChild(linkIcon); 
+  }
+})()
