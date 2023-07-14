@@ -118,6 +118,15 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [Garfield](https://www.gocomics.com/garfield){:target="_blank"}
 - [Geek & Poke](https://geek-and-poke.com){:target="_blank"}
 
+## Weather
+
+- [blitzortung.org](https://www.blitzortung.org){:target="_blank"} &mdash; Real time lightning strikes all over the world
+- [lightningmaps.org](https://www.lightningmaps.org){:target="_blank"} &mdash; Real time lightning strikes with thunder sound propagation
+- [radar.bourky.cz](https://radar.bourky.cz){:target="_blank"} &mdash; Clouds radar of Czech Republic (and neighbouring regions)
+- [www.radareu.cz](http://www.radareu.cz){:target="_blank"} &mdash; Clouds radar of Europe
+- [sat24.com](https://sat24.com/){:target="_blank"} &mdash; Clouds, rain and other realtime maps
+- [earthquakes.volcanodiscovery.com](https://earthquakes.volcanodiscovery.com/){:target="_blank"} &mdash; Earthquakes and Volcano activity all over the world
+
 ## Other
 
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/){:target="_blank"} &mdash; Useful for expressing your emotions!
