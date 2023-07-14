@@ -32,10 +32,10 @@ h1, h2, h3, h4, h5, h6 {
   a:link, a:hover, a:focus, a:visited { color: #333; text-decoration: none; }
   a:hover { text-decoration: underline; }
   
-  a.show-on-hover {
+  a .show-on-hover {
     display: none;
   }
-  a:hover.show-on-hover {
+  a:hover .show-on-hover {
     display: inline;
   }
 }
