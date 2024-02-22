@@ -15,6 +15,8 @@ references:
 
 ---
 
+Bash supports both `while` and `for` loop. Each has some variants to help us do our work better!
+
 ## Control statements
 
 Besides loop condition, both `while` and `for` loop, undesrtands common control commands:
