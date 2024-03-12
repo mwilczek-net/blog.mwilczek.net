@@ -12,7 +12,7 @@ author:        "mwilczek.net"
 references:
   "https://www.cyberciti.biz/faq/bash-while-loop/":
   "https://www.cyberciti.biz/faq/bash-for-loop/":
-  "https://linuxhint.com/for-loops-zsh-script/"
+  "https://linuxhint.com/for-loops-zsh-script/":
     title: "How to Do a for loop in ZSH"
 
 ---
