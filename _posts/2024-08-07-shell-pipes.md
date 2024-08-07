@@ -10,7 +10,7 @@ categories:    posts
 tags:          ['bash', 'zsh', 'shell', 'pipelines']
 author:        "mwilczek.net"
 references:
-  "https://unix.stackexchange.com/questions/14270/get-exit-status-of-process-thats-piped-to-another":c
+  "https://unix.stackexchange.com/questions/14270/get-exit-status-of-process-thats-piped-to-another":
 ---
 
 Shells allows easy forwarding of output form one program to input of another program. It is also available in other languages. General term for such phenomena is `piping` or `pipelining`.
