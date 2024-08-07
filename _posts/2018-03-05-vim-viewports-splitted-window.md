@@ -14,7 +14,7 @@ references:
   "https://benaiah41.wordpress.com/2009/02/21/resizing-vertical-viewports-in-vim/":
 ---
 
-Vim seams to be simple and without many features. But it’s just false first impression. One of “hidden” feature is splitted window.
+Vim seams to be simple and without many features. But it’s just false first impression. One of "hidden" feature is splitted window.
 
 By default new viewport shows file visible in current viewport.
 

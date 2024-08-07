@@ -17,7 +17,7 @@ While programming I often look for different objects and names across many proje
 When I find desired files, I’d like to perform some operations on sub group of results.
 Lets say open 100 files but skipping first 5.
 
-Lets start with just finding all “*.java” and “*.xml” files with “foo” and “bar” strings.
+Lets start with just finding all `*.java` and `*.xml` files with `foo` and `bar` strings.
 Generally, my spell looks similar to this:
 
 ```bash
