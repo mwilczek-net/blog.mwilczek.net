@@ -1,6 +1,6 @@
 ---
 bg_credential: <a href="https://unsplash.com/@pedrotheartist?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pedro Forester Da Silva</a> on <a href="https://unsplash.com/photos/a-bunch-of-pipes-are-lined-up-in-a-row-tkfJqN9Lu9Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-bg:            "pedro-forester-da-silva-tkfJqN9Lu9Q-unsplash"
+bg:            "pedro-forester-da-silva-tkfJqN9Lu9Q-unsplash.jpg"
 layout:        post
 title:         "Pipes in shell"
 crawlertitle:  "Joining programs with pipies in shell"
