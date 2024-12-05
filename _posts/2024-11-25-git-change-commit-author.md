@@ -14,12 +14,12 @@ references:
     title: "More variants"
 ---
 
-Sometimes, if we forget to correctly cofnigure GIT, default (or misconfigured) author credentials
+Sometimes, if we forget to correctly configure GIT, default (or misconfigured) author credentials
 are saved into one or more commits.
 
 Sometimes it is not an issue, but for some projects, external repository may disallow pushing.
 
-Below there are few methods of how to repari commit author.
+Below there are few methods of how to repair commit author.
 
 ## Changing author of the last commit
 
