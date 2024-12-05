@@ -80,3 +80,12 @@ echo 'Lay me down Let the only sound Be the overflow Pockets full of stones' | a
 First part of line: " Lay me down Let the only sound ",
 Second part of line: " Be the overflow Pockets full of stones "
 ```
+
+## Use last element of split string
+
+Variable `$NF` represent last chunk
+
+```bash
+echo 'what is first part what IS second part' | awk -F '[Ii][Ss]' '{print $NF}'
+  second part
+```
