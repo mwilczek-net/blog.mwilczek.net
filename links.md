@@ -35,7 +35,7 @@ active:        links
 - [genapps.pl](http://genapps.pl/){:target="_blank"} &mdash; Generators and validators for document serial numbers
 - [regular expressions 101](https://regex101.com/){:target="_blank"} &mdash; Test Regular expressions in few different flavours
 - [The QR Code Generator](https://www.the-qrcode-generator.com/){:target="_blank"}
-- [uuidonline.com](https://uuidonline.com/){:target="_blank"} &mdash; UUID generator (v1, v3, v4, v5)
+- [uuidgenerator.net](https://www.uuidgenerator.net/){:target="_blank"} &mdash; UUID generator (different versions)
 - [View non-printable unicode characters](https://www.soscisurvey.de/tools/view-chars.php){:target="_blank"} &mdash; or get it from [GitHub Repository](https://github.com/BurninLeo/see-non-printable-characters/){:target="_blank"}
 
 ## Online Parsers
