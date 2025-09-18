@@ -21,6 +21,7 @@ active:        links
 - [PlanITpoker](https://www.planitpoker.com/){:target="_blank"} &mdash; Helps estimating work in IT / Agile
 - [Should I blame caching?](https://shouldiblamecaching.com/){:target="_blank"} &mdash; Was it me or cache?
 - [zombo.com](https://zombo.com){:target="_blank"} &mdash; You can do anything at `zombo.com`
+- [Is It Friday?](https://is-it-friday.org/){:target="_blank"} &mdash; Is it?
 
 ## Status
 - [Atlassian Status](https://status.atlassian.com/){:target="_blank"} &mdash; Check if Atlassian is working or crying
