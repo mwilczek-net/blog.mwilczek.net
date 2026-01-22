@@ -65,6 +65,7 @@ active:        links
   - [w3schools](https://www.w3schools.com/charsets/ref_html_utf8.asp){:target="_blank"} &mdash; Link to the top of an iceberg
 - [ohshitgit.com](https://ohshitgit.com/){:target="_blank"} &mdash; Git cheat sheet for emergency situations
 - [PDB](https://docs.python.org/3/library/pdb.html){:target="_blank"} &mdash; The Python Debugger - works in terminal
+- [The Polonist](https://www.polonist.com/){:target="_blank"} &mdash; Explore Poland’s culinary culture through hundreds of Polish recipes and stories.
 - [W3Schools](https://www.w3schools.com/){:target="_blank"} &mdash; Tutorials, references, and much more about FrontEnd, BackEnd and FullStack web development
 
 ## Configurations
@@ -89,8 +90,8 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ### Editors / IDE
 
-- [Atom](https://atom.io/){:target="_blank"}
 - [Notepad++](https://notepad-plus-plus.org/){:target="_blank"}
+- [Pulsar](https://pulsar-edit.dev/){:target="_blank"}
 - [Sublime Text](http://www.sublimetext.com/){:target="_blank"}
 - [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} &mdash; VS **CODE** IS **NOT** FULL AND HEAVY IDE!!! Just Visual Studio is full and heavy IDE. VS Code is lightweight editor.
 
