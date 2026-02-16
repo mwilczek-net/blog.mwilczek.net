@@ -135,3 +135,4 @@ Software itself is big group. Therefore, it was split for better navigation.
 ## Other
 
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/){:target="_blank"} &mdash; Useful for expressing your emotions!
+- [Polonist.com](https://www.polonist.com/){:target="_blank"} &mdash; Polish Food Guides, How-to’s, as well as Tips & Troubleshooting
