@@ -46,7 +46,7 @@ active:        links
 - [3v4l.org](https://3v4l.org/){:target="_blank"} &mdash; PHP online parser
 - [Groovy Web Console](https://groovyconsole.appspot.com/){:target="_blank"}
 
-## Books
+## Books (Software & IT)
 
 - **&quot;Clean Code&quot;** by Uncle Bob (Robert C. Martin) &mdash; How to write beautiful and maintanable code
 - **&quot;Design Patterns: Elements of Reusable Object-Oriented Software&quot;** by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides &mdash; Solid knowledge of design patterns
@@ -131,6 +131,13 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [www.radareu.cz](http://www.radareu.cz){:target="_blank"} &mdash; Clouds radar of Europe
 - [sat24.com](https://sat24.com/){:target="_blank"} &mdash; Clouds, rain and other realtime maps
 - [earthquakes.volcanodiscovery.com](https://earthquakes.volcanodiscovery.com/){:target="_blank"} &mdash; Earthquakes and Volcano activity all over the world
+
+## Health
+
+- [The Emotion Code Book](https://discoverhealing.com/the-emotion-code/book/){:target="_blank"}
+- [The Heart Code Book](https://discoverhealing.com/the-heart-code-book/){:target="_blank"}
+- [The Body Code Book](https://discoverhealing.com/the-body-code/book/){:target="_blank"}
+- [Recall Healing, Totalna biologia – Uzdrawianie przez świadomość](https://wena.edu.pl/recall-healing-totalna-biologia-uzdrawianie-przez-swiadomosc-gilbert-renaud/){:target="_blank"}
 
 ## Other
 
