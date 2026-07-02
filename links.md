@@ -110,7 +110,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ### Browsers
 
-- [Firefox](https://www.mozilla.org/){:target="_blank"}
+- [Firefox](https://www.firefox.com/){:target="_blank"}
 - [Firefox Developer Edition](https://www.firefox.com/channel/desktop/developer/){:target="_blank"}
 - [Vivaldi](https://vivaldi.com){:target="_blank"}
 - [Opera](https://www.opera.com/){:target="_blank"} &mdash; I know&hellip; Nobody use it except me. Good as a backup and for separating browsing context
