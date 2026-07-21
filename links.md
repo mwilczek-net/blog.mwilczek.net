@@ -90,7 +90,8 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ### Editors / IDE
 
-- [Notepad++](https://notepad-plus-plus.org/){:target="_blank"}
+- [Lapce](https://lap.dev/lapce/){:target="_blank"}
+- [Notepad++](https://notepad-plus-plus.org/){:target="_blank"} &mdash; Great editor! Windows only 😭
 - [Pulsar](https://pulsar-edit.dev/){:target="_blank"}
 - [Sublime Text](http://www.sublimetext.com/){:target="_blank"}
 - [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} &mdash; VS **CODE** IS **NOT** FULL AND HEAVY IDE!!! Just Visual Studio is full and heavy IDE. VS Code is lightweight editor.
