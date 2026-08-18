@@ -11,6 +11,7 @@ tags:          ['bash', 'grep', 'sed']
 author:        "mwilczek.net"
 references:
   "https://linux.die.net/man/1/sed":
+  "https://www.wyzant.com/resources/answers/646117/bash-tool-to-get-nth-line-from-a-file":
 ---
 
 ## Print `nth` line of an input
