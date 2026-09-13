@@ -10,7 +10,11 @@ summary:       "blog.mwilczek.net<br>&mdash;<br>a&nbsp;little bit of&nbsp;techno
 {% for post in site.posts limit: 15 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
+    {% if post.use_summary %}
+      {{ post.summary }}
+    {% else %}
+      {{ post.excerpt }}
+    {% endif %}
   </article>
 {% endfor %}
 <article>

@@ -10,6 +10,7 @@ categories:    posts
 tags:          ['quote', 'heart', 'mind']
 author:        "mwilczek.net"
 references:
+use_summary: yes
 ---
 
 `PL 🇵🇱`
