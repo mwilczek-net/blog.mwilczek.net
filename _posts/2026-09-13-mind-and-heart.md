@@ -36,6 +36,3 @@ use_summary: yes
 > Srdce: geniální způsob života.
 >
 > -- <cite>Mirosław Wilczek</cite>
-
-
-
