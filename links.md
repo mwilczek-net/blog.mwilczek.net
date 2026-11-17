@@ -143,6 +143,11 @@ Software itself is big group. Therefore, it was split for better navigation.
 - [The Body Code Book](https://discoverhealing.com/the-body-code/book/){:target="_blank"}
 - [Recall Healing, Totalna biologia – Uzdrawianie przez świadomość](https://wena.edu.pl/recall-healing-totalna-biologia-uzdrawianie-przez-swiadomosc-gilbert-renaud/){:target="_blank"}
 
+## Spoken languages
+
+### Finish
+- [urbaanisanakirja.com](https://urbaanisanakirja.com/){:target="_blank"} &mdash; Finish Urban Dictionary
+
 ## Other
 
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/){:target="_blank"} &mdash; Useful for expressing your emotions!
