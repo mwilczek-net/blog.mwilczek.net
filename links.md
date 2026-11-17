@@ -137,6 +137,7 @@ Software itself is big group. Therefore, it was split for better navigation.
 
 ## Health
 
+- [5 Ran Duszy](https://dotykberkano.pl/5-ran-duszy-odrzucenie-porzucenie-upokorzenie-zdrada-i-niesprawiedliwosc/){:target="_blank"}
 - [The Emotion Code Book](https://discoverhealing.com/the-emotion-code/book/){:target="_blank"}
 - [The Heart Code Book](https://discoverhealing.com/the-heart-code-book/){:target="_blank"}
 - [The Body Code Book](https://discoverhealing.com/the-body-code/book/){:target="_blank"}
